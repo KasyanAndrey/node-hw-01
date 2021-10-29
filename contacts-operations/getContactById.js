@@ -6,6 +6,7 @@ const getContactById = async (id) => {
   if (!result) {
     return null;
   }
+
   return result;
 };
 

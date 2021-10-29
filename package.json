@@ -23,6 +23,8 @@
     "nodemon": "^2.0.14"
   },
   "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "8.3.0",
     "uuid": "^8.3.2"
   }
 }
